@@ -1,6 +1,6 @@
 # Khaled Hoshan
 
-Computer Engineering student interested in **backend development, software systems, and distributed systems**.
+Computer Engineering student interested in **software systems, infrastructure, backend development, distributed systems, and computer hardware**.
 
 Currently building projects with Python, C/C++, SQL, Linux, and related tools while completing my Computer Engineering degree at Damascus University.
 
