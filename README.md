@@ -26,13 +26,14 @@ Real-time IMU orientation system using an STM32, MPU6050, Madgwick sensor fusion
 
 **C++ · STM32 · FastAPI · WebSockets · Three.js**
 
+
 ## Technical Focus
 
-Languages: Python, C, C++, SQL, JavaScript
-Backend & Libraries: Flask, FastAPI, OpenCV, NumPy, SciPy
-Databases: MySQL, relational database design, ER modeling, normalization
-Systems & Infrastructure: Linux, Git, Docker, Bash, Operating Systems, Computer Architecture, Computer Networks
-Hardware & Embedded: Computer Hardware, STM32, AVR/ATmega, Arduino, Raspberry Pi, PlatformIO
+- **Languages:** Python, C, C++, SQL, JavaScript
+- **Backend & Libraries:** Flask, FastAPI, OpenCV, NumPy, SciPy
+- **Databases:** MySQL, relational database design, ER modeling, normalization
+- **Systems & Infrastructure:** Linux, Git, Docker, Bash, Operating Systems, Computer Architecture, Computer Networks
+- **Hardware & Embedded:** Computer Hardware, STM32, AVR/ATmega, Arduino, Raspberry Pi, PlatformIO
 
 
 ## Education
@@ -43,6 +44,6 @@ Expected graduation: October 2027
 
 ## Languages
 
-Arabic — Native  
-English — Fluent  
-German — Basic
+- **Arabic:** Native
+- **English:** Fluent
+- **German:** Basic
