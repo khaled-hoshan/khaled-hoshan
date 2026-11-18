@@ -1,49 +1,70 @@
+
 # Khaled Hoshan
 
-Computer Engineering student interested in **software systems, infrastructure, backend development, distributed systems, and computer hardware**.
+Computer Engineering student at Damascus University, specializing in Computer Engineering.
 
-Currently building projects with Python, C/C++, SQL, Linux, and related tools while completing my Computer Engineering degree at Damascus University.
+Focused on Python backend development, software systems, and infrastructure. Building projects with Python, FastAPI, PostgreSQL, Linux, Docker, and Kubernetes.
 
 ## Featured Projects
 
-### [Object Tracker](https://github.com/khaled-hoshan/object_tracker)
-Python implementation of the SORT multi-object tracking algorithm using Kalman filtering, IoU-based association, and the Hungarian algorithm, integrated with YOLOv8.
+### [Recovery Operations API](https://github.com/khaled-hoshan/recovery-operations-api)
 
-**Python · OpenCV · NumPy · SciPy · FilterPy**
+A REST API for recording and tracking recovery operations in distributed applications. Includes controlled state transitions, PostgreSQL persistence, database migrations, automated testing, CI, and cloud deployment.
 
-### [Smart Archiving System](https://github.com/khaled-hoshan/smart-archiving-system)
-End-to-end classroom whiteboard archiving system connecting an Arduino/Raspberry Pi capture station with a Flask application, OCR processing, and PDF generation.
+**Python · FastAPI · PostgreSQL · SQLAlchemy · Alembic · pytest · Docker · GitHub Actions**
 
-**Python · Flask · OpenCV · EasyOCR · Arduino · Raspberry Pi**
+### [Verified Recovery](https://github.com/verified-recovery-team/verified-recovery)
 
-### [VoltLink Database System](https://github.com/khaled-hoshan/VoltLink-Database-System)
-Relational EV charging network database demonstrating ER modeling, normalization, SQL constraints, stored procedures, and advanced queries.
+An ongoing graduation project: a deterministic, policy-guided resilience orchestrator for Kubernetes-hosted distributed applications.
 
-**MySQL · SQL · Database Design · ERD**
+Current implementation includes Kubernetes workload operations, Prometheus metrics integration, incident persistence, and monitoring infrastructure. Automated detection, diagnosis, and recovery orchestration remain under development.
+
+**Python · FastAPI · Kubernetes · Prometheus · Grafana · Docker · SQLite · pytest**
 
 ### [Tilt Tracker](https://github.com/khaled-hoshan/tilt-tracker)
-Real-time IMU orientation system using an STM32, MPU6050, Madgwick sensor fusion, and a web-based visualization dashboard.
 
-**C++ · STM32 · FastAPI · WebSockets · Three.js**
+A real-time data pipeline with a FastAPI backend, asynchronous serial data ingestion, REST endpoints, and WebSocket-based streaming.
 
+**Python · FastAPI · REST · WebSockets**
 
-## Technical Focus
+### [Smart Whiteboard Archiving System](https://github.com/khaled-hoshan/smart-archiving-system)
 
-- **Languages:** Python, C, C++, SQL, JavaScript
-- **Backend & Libraries:** Flask, FastAPI, OpenCV, NumPy, SciPy
-- **Databases:** MySQL, relational database design, ER modeling, normalization
-- **Systems & Infrastructure:** Linux, Git, Docker, Bash, Operating Systems, Computer Architecture, Computer Networks
-- **Hardware & Embedded:** Computer Hardware, STM32, AVR/ATmega, Arduino, Raspberry Pi, PlatformIO
+An end-to-end archiving application integrating image uploads, computer vision preprocessing, OCR, and automated PDF generation.
 
+**Python · Flask · OpenCV · EasyOCR · Raspberry Pi · ReportLab**
+
+### [VoltLink Database System](https://github.com/khaled-hoshan/VoltLink-Database-System)
+
+A relational database system for an EV charging network, featuring a 14-entity schema, normalization to 3NF, database constraints, stored procedures, triggers, and SQL queries.
+
+**MySQL · SQL · Database Design · ER Modeling**
+
+## Technical Skills
+
+- **Languages & Scripting:** Python, SQL, Bash
+- **Backend & APIs:** FastAPI, Flask, REST APIs, asynchronous programming, WebSockets
+- **Databases:** PostgreSQL, MySQL, SQLite, SQLAlchemy, Alembic
+- **Infrastructure:** Linux, Docker, Docker Compose, Kubernetes, Minikube, Helm
+- **Testing:** pytest, HTTPX
+- **Version Control & CI:** Git, GitHub Actions
+- **Monitoring:** Prometheus, Grafana
 
 ## Education
 
-**B.Sc. Computer Engineering**  
-Damascus University  
+**Damascus University**
+
+Bachelor's Degree in Computer Engineering and Automation  
+Computer Engineering specialization  
 Expected graduation: October 2027
 
 ## Languages
 
-- **Arabic:** Native
-- **English:** Fluent
-- **German:** Basic
+- Arabic: Native
+- English: Fluent
+- German: Basic
+
+## Contact
+
+- Email: khaled.hoshan01@gmail.com
+- [LinkedIn](https://www.linkedin.com/in/khaled-hoshan)
+
